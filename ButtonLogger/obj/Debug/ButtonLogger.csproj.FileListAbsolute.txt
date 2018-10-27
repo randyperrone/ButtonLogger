@@ -1,0 +1,15 @@
+C:\Users\Delldo\source\repos\ButtonLogger\ButtonLogger\bin\Debug\ButtonLogger.exe.config
+C:\Users\Delldo\source\repos\ButtonLogger\ButtonLogger\bin\Debug\ButtonLogger.exe
+C:\Users\Delldo\source\repos\ButtonLogger\ButtonLogger\bin\Debug\ButtonLogger.pdb
+C:\Users\Delldo\source\repos\ButtonLogger\ButtonLogger\obj\Debug\ButtonLogger.csprojAssemblyReference.cache
+C:\Users\Delldo\source\repos\ButtonLogger\ButtonLogger\obj\Debug\MainWindow.g.cs
+C:\Users\Delldo\source\repos\ButtonLogger\ButtonLogger\obj\Debug\App.g.cs
+C:\Users\Delldo\source\repos\ButtonLogger\ButtonLogger\obj\Debug\ButtonLogger_MarkupCompile.cache
+C:\Users\Delldo\source\repos\ButtonLogger\ButtonLogger\obj\Debug\ButtonLogger_MarkupCompile.lref
+C:\Users\Delldo\source\repos\ButtonLogger\ButtonLogger\obj\Debug\MainWindow.baml
+C:\Users\Delldo\source\repos\ButtonLogger\ButtonLogger\obj\Debug\ButtonLogger.g.resources
+C:\Users\Delldo\source\repos\ButtonLogger\ButtonLogger\obj\Debug\ButtonLogger.Properties.Resources.resources
+C:\Users\Delldo\source\repos\ButtonLogger\ButtonLogger\obj\Debug\ButtonLogger.csproj.GenerateResource.cache
+C:\Users\Delldo\source\repos\ButtonLogger\ButtonLogger\obj\Debug\ButtonLogger.csproj.CoreCompileInputs.cache
+C:\Users\Delldo\source\repos\ButtonLogger\ButtonLogger\obj\Debug\ButtonLogger.exe
+C:\Users\Delldo\source\repos\ButtonLogger\ButtonLogger\obj\Debug\ButtonLogger.pdb
